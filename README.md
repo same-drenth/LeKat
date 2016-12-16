@@ -1,7 +1,7 @@
 # LeKat
 Le Kat
 
-'''
+```
 void setup() {
 
   background(#FFFFFF);
@@ -54,4 +54,4 @@ void draw() {
 
   point(60, 49);
 }
-'''
+```
